@@ -1,0 +1,119 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+
+}
+/* NAV */
+.navLogo {
+    text-align: center;
+}
+
+
+/* HEADING */
+.heading {
+    background: #DFE0E1;
+    width: 100%;
+    height: auto;
+}
+.headingStandout {
+text-align: center;
+font-size: 28px;
+font-weight: 800;
+line-height: 1;
+color: #000;
+}
+
+.headingContent {
+    text-align: center;
+    margin: 0 30px;
+    margin-top: 64px;
+    
+}
+.headingP {
+    padding: 24px 0;
+    line-height: 25px;
+    font-size: 20px;
+}
+.headingBtn {
+    padding: 0 18px;
+    width: 200px;
+    height: 56px;
+    border-radius: 7px;
+    background: #fff;
+    font-size: 18px;
+    font-weight: 500px;
+    margin-bottom: 30px;
+}
+
+/* SECTION ONE */
+
+.sectionImg img {
+ height:400px;
+ width: 100%;
+ margin: 0;
+ padding: 0;
+}
+.sponsers {
+    text-align: center;
+    margin: 100px 100px;
+}
+
+/* BODY SECTION */
+
+.bodySection {
+    width: 100%;
+    height: auto;
+}
+
+.bodySection h2 {
+    font-size: 32px;
+    margin: 0 0 24px 0;
+    font-size: 34px;
+    line-height: 1.1;
+    font-weight: 700;
+    padding: 0 5px 0 15px;
+}
+
+.bodySection p {
+    line-height: 27px;
+}
+
+.bodySection a {
+    margin: 30px 0 30px 15px;
+    display: inline-block;
+    text-align: center;
+    font-size: 15px;
+    border-bottom: solid 2px;
+}
+.num {
+    margin: 0 0 20px 10px;
+    padding-top: 20px;
+    font-size: 25px;
+    font-weight: 800;
+}
+.sectionOne {
+    background: #f2f2f2;
+    padding: 50px 0 0 0;
+}
+
+.sectionTwo {
+    background: #212121;
+    color: #fff;
+}
+
+.sectionThree {
+
+}
+
+.sectionFour {
+    background:  #19334d;
+    color: #fff;
+}
+.bodySectiondesc {
+    padding: 0 5px 0 15px;
+}
+.sectionContent {
+    width: 90%;
+}
